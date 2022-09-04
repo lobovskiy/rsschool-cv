@@ -1,0 +1,1 @@
+# Training repository for RS School tasks
