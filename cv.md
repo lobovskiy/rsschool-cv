@@ -40,7 +40,7 @@ In my spare time, I practice with cloud computing and services (in particular wi
 
 ## Code example
 
-Here is solution of [Array Deep Count Kata](https://www.codewars.com/kata/596f72bbe7cd7296d1000029) on Codewars: *Your task is to create a function deepCount that returns the number of ALL elements within an array, including any within inner-level arrays*
+Here is the solution of the [Array Deep Count Kata](https://www.codewars.com/kata/596f72bbe7cd7296d1000029) on Codewars: *Your task is to create a function deepCount that returns the number of ALL elements within an array, including any within inner-level arrays*
 
 ```
 function deepCount(a){
@@ -71,7 +71,7 @@ function deepCount(a){
 
 ## Work experience
 
-Since April 2022 I have been working in team of 10 people on the web application which is the portal for moderation of trading violation reported with mobile application. It's being developed using React, LESS, Java, PostgreSQL. I work on developing frontend application with React, Redux, Saga.
+Since April 2022 I have been working in the team of 10 people on the web application which is the portal for moderation of trading violations reported with customer's mobile applications. It's being developed using React, LESS, Java, PostgreSQL. I work on developing of the frontend application with React, Redux, Saga.
 
 ***
 
